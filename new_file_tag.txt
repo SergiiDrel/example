@@ -1,9 +1,3 @@
 New text in file.
 Second line
 Another line
-More lines-s-s-s!
-
-Some another text!
-New release!Lol!!
-
-New changes in file!
