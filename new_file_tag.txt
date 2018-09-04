@@ -1,2 +1,5 @@
 New text in file.
 Second line
+
+Added new lines
+Brrr-r-r-r-r
